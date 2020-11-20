@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:C++_work" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="untitled23" targetName="untitled23" />
@@ -11,7 +29,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d648e830-e197-430e-a8a7-ed345d8f0b64" name="Default Changelist" comment="" />
+    <list default="true" id="d648e830-e197-430e-a8a7-ed345d8f0b64" name="Default Changelist" comment="Project 5 first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled23.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled23.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled23.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled23.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled23" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled23" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +45,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kNZtxV21Gu4VLAvNfT6ycjycYG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,50 +102,94 @@
       <workItem from="1605708889806" duration="2293000" />
       <workItem from="1605712384701" duration="409000" />
       <workItem from="1605733754680" duration="21000" />
-      <workItem from="1605832040009" duration="212000" />
+      <workItem from="1605832040009" duration="1097000" />
+      <workItem from="1605833596599" duration="1166000" />
+      <workItem from="1605836444000" duration="505000" />
     </task>
+    <task id="LOCAL-00001" summary="Project 5 first commit">
+      <created>1605832543845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605832543845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Project 5 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project 5 first commit" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="148" y="92" key="DiffContextDialog" timestamp="1605833073260">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="148" y="92" key="DiffContextDialog/0.25.1440.807@0.25.1440.807" timestamp="1605833073260" />
     <state x="628" y="350" key="Github.ShareDialog" timestamp="1605832149738">
       <screen x="0" y="25" width="1440" height="807" />
     </state>
     <state x="628" y="350" key="Github.ShareDialog/0.25.1440.807@0.25.1440.807" timestamp="1605832149738" />
-    <state width="1417" height="212" key="GridCell.Tab.0.bottom" timestamp="1605712801815">
-      <screen x="0" y="25" width="1440" height="805" />
+    <state width="1078" height="212" key="GridCell.Tab.0.bottom" timestamp="1605835964531">
+      <screen x="0" y="25" width="1440" height="809" />
     </state>
     <state width="1417" height="212" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1605712801815" />
     <state width="1417" height="212" key="GridCell.Tab.0.bottom/0.25.1440.806@0.25.1440.806" timestamp="1605712630260" />
-    <state width="1417" height="212" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1605544671031" />
-    <state width="1417" height="212" key="GridCell.Tab.0.center" timestamp="1605712801814">
-      <screen x="0" y="25" width="1440" height="805" />
+    <state width="1078" height="212" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1605834683662" />
+    <state width="1078" height="212" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1605835964531" />
+    <state width="1078" height="212" key="GridCell.Tab.0.center" timestamp="1605835964530">
+      <screen x="0" y="25" width="1440" height="809" />
     </state>
     <state width="1417" height="212" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1605712801814" />
     <state width="1417" height="212" key="GridCell.Tab.0.center/0.25.1440.806@0.25.1440.806" timestamp="1605712630259" />
-    <state width="1417" height="212" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1605544671030" />
-    <state width="1417" height="212" key="GridCell.Tab.0.left" timestamp="1605712801814">
-      <screen x="0" y="25" width="1440" height="805" />
+    <state width="1078" height="212" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1605834683661" />
+    <state width="1078" height="212" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1605835964530" />
+    <state width="1078" height="212" key="GridCell.Tab.0.left" timestamp="1605835964529">
+      <screen x="0" y="25" width="1440" height="809" />
     </state>
     <state width="1417" height="212" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1605712801814" />
     <state width="1417" height="212" key="GridCell.Tab.0.left/0.25.1440.806@0.25.1440.806" timestamp="1605712630259" />
-    <state width="1417" height="212" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1605544671030" />
-    <state width="1417" height="212" key="GridCell.Tab.0.right" timestamp="1605712801814">
-      <screen x="0" y="25" width="1440" height="805" />
+    <state width="1078" height="212" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1605834683661" />
+    <state width="1078" height="212" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1605835964529" />
+    <state width="1078" height="212" key="GridCell.Tab.0.right" timestamp="1605835964530">
+      <screen x="0" y="25" width="1440" height="809" />
     </state>
     <state width="1417" height="212" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1605712801814" />
     <state width="1417" height="212" key="GridCell.Tab.0.right/0.25.1440.806@0.25.1440.806" timestamp="1605712630260" />
-    <state width="1417" height="212" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1605544671030" />
+    <state width="1078" height="212" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1605834683661" />
+    <state width="1078" height="212" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1605835964530" />
     <state x="207" y="28" key="SettingsEditor" timestamp="1605832251247">
       <screen x="0" y="25" width="1440" height="807" />
     </state>
     <state x="207" y="28" key="SettingsEditor/0.25.1440.807@0.25.1440.807" timestamp="1605832251247" />
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605833111013">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="324" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.807@0.25.1440.807" timestamp="1605833111013" />
+    <state x="866" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605832722390">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="866" y="431" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.807@0.25.1440.807" timestamp="1605832722390" />
+    <state x="289" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1605834671334">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="289" y="156" width="670" height="676" key="search.everywhere.popup/0.25.1440.807@0.25.1440.807" timestamp="1605834671334" />
   </component>
 </project>

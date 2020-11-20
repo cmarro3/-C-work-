@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+#include <vector>
 
 using namespace std;
 
@@ -79,12 +80,12 @@ void Text::wordNumber() {
 void Text::sentenceNumber() {
     ifstream chicago;
     chicago.open("chicago.txt");
-    char currentString;
+    char strings;
     int counter = 0;
 
     while (!chicago.eof()) {
-        chicago >> currentString;
-        if (currentString == '?' || currentString == '!' || currentString == '.')
+        chicago >> strings;
+        if (strings == '?' || strings == '!' || strings == '.')
             counter++;
 
     }
@@ -93,7 +94,22 @@ void Text::sentenceNumber() {
 }
 
 void Text::reverseText() {
-
+    ifstream chicago;
+    chicago.open("chicago.txt");
+    char letters;
+    int filesize;
+    vector<char> V;
+    if (chicago.fail()) {
+        cout << "Your file didn't work, chief" << endl;
+    }
+    while (chicago >> letters) {
+        V.push_back(letters);
+    }
+    filesize = V.size();
+    reverse(V.begin(), V.end());
+    for (int i = 0; i < filesize; i++) {
+        cout << V[i];
+    }
 }
 
 int main() {
@@ -105,29 +121,3 @@ int main() {
     T.reverseText();
     return 0;
 }
-
-/*
- *  ifstream file("chicago.txt");
-    char i;
-    int x;
-    vector<char> V;
-
-    if(file.fail()){
-        cerr<<"error"<<endl;
-        exit(1);
-    }
-
-
-
-    while(file>>i){
-        V.push_back(i);
-    }
-
-    x=V.size();
-
-    reverse(V.begin(), V.end());
-
-    for(int y=0; y<x; y++){
-        cout <<  V[y];
-    }*/
-
